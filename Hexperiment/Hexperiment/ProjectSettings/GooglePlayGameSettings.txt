@@ -1,0 +1,9 @@
+lastUpgrade=00937
+proj.pluginVersion=0.9.37
+proj.AppId=483519935954
+and.BundleId=com.Company.Hexperiment
+proj.classDir=Test
+proj.ConstantsClassName=GPGSIds
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--%0d%0aGoogle+Play+game+services+IDs.%0d%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0d%0a--%3e%0d%0a%3cresources%3e%0d%0a++%3cstring+name%3d%22app_id%22%3e483519935954%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22package_name%22%3ecom.Company.Hexperiment%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_cccccombo%22%3eCgkI0uuioIkOEAIQAQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_reached_level_10%22%3eCgkI0uuioIkOEAIQAg%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_reached_level_20%22%3eCgkI0uuioIkOEAIQAw%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_reached_level_30%22%3eCgkI0uuioIkOEAIQBA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_reached_level_40%22%3eCgkI0uuioIkOEAIQBQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_you_have_logged_on%22%3eCgkI0uuioIkOEAIQBw%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22leaderboard_leaderboard%22%3eCgkI0uuioIkOEAIQBg%3c%2fstring%3e%0d%0a%3c%2fresources%3e
+and.ClientId=483519935954-u4lue3gl0k89b0mgoh5fpa4t103bg6d9.apps.googleusercontent.com
+android.SetupDone=true
